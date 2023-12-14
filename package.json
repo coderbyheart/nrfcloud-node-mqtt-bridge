@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "aws-iot-device-sdk-v2": "1.17.0"
+    },
+    "dependencies": {
+        "@nordicsemiconductor/from-env": "3.0.0",
+        "tsx": "4.6.2"
+    }
+}
